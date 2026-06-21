@@ -105,7 +105,7 @@ npm run dev
 
 ---
 
-## Contribution Snake
+## Contribution 
 
 <div align="center">
 
