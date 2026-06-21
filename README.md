@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+
+<br>
+
 # Hi, I'm Hafid Hidayat 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Information+Systems+Student;Web+Developer;Cybersecurity+Learner;Building+CyberVault;Learning+React%2C+PHP%2C+CI3%2C+and+MySQL" alt="Typing SVG" />
