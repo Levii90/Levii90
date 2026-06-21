@@ -2,6 +2,8 @@
 
 # Hi, I'm Hafid Hidayat 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Information+Systems+Student;Web+Developer;Cybersecurity+Learner;Building+CyberVault;Learning+React%2C+PHP%2C+CI3%2C+and+MySQL" alt="Typing SVG" />
+
 ### Information Systems Student | Web Developer | Cybersecurity Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Levii90\&label=Profile%20Views\&color=0e75b6\&style=flat)
@@ -58,7 +60,6 @@ I am an Information Systems student who is interested in building useful digital
 
 ---
 
-
 ## Featured Project
 
 ### CyberVault
@@ -69,27 +70,50 @@ CyberVault is a web-based platform designed to improve digital security awarenes
 
 Repository: [CyberVault-WebPro](https://github.com/Levii90/CyberVault-WebPro)
 
+### CyberVault Project Setup
+
+```bash
+npm install
+npm run dev
+```
+
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-![Hafid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Levii90\&show_icons=true\&theme=github_dark\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levii90&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hafid's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Levii90\&layout=compact\&theme=github_dark\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii90&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
+
 ## GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Levii90&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Levii90&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
+
 ---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levii90/Levii90/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Levii90/Levii90/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/Levii90)
