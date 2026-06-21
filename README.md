@@ -58,17 +58,6 @@ I am an Information Systems student who is interested in building useful digital
 
 ---
 
-## Current Focus
-
-```txt
-Web Development      █████████░░  80%
-React JS             ███████░░░░  65%
-PHP / CodeIgniter 3  ████████░░░  70%
-Database / MySQL     ███████░░░░  65%
-Cybersecurity        ██████░░░░░  55%
-```
-
----
 
 ## Featured Project
 
