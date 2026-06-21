@@ -82,7 +82,14 @@ Repository: [CyberVault-WebPro](https://github.com/Levii90/CyberVault-WebPro)
 </div>
 
 ---
+## GitHub Streak
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Levii90&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+---
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/Levii90)
