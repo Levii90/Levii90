@@ -4,161 +4,97 @@
 
 <br>
 
-# Hi, I'm Hafid Hidayat 👋
+# Hai, Saya Hafid Hidayat 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Information+Systems+Student;Web+Developer;Cybersecurity+Learner;Building+CyberVault;Building+Portfolio+Web;Learning+React%2C+PHP%2C+CI3%2C+Laravel%2C+and+MySQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Mahasiswa+Sistem+Informasi;Web+Developer;Pembelajar+Cybersecurity;Membangun+CyberVault;Membangun+Portfolio+Web;Belajar+React%2C+PHP%2C+CI3%2C+Laravel%2C+dan+MySQL" alt="Typing SVG" />
 
-### Information Systems Student | Web Developer | Cybersecurity Learner
-
-![Profile Views](https://komarev.com/ghpvc/?username=Levii90\&label=Profile%20Views\&color=0e75b6\&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Levii90?label=Followers\&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/Levii90?label=Stars\&style=flat)
+### Mahasiswa Sistem Informasi | Web Developer | Pembelajar Cybersecurity
 
 </div>
 
 ---
 
-## About Me
+## Tentang Saya
 
-I am an Information Systems student who is focused on building useful digital products, learning web development, and exploring cybersecurity awareness.
+Saya adalah mahasiswa Sistem Informasi yang fokus membangun produk digital yang bermanfaat, mempelajari pengembangan web, dan mengeksplorasi kesadaran keamanan siber.
 
-I like turning ideas into real projects, especially projects related to digital security, smart city systems, user experience, and practical web applications.
+Saya suka mengubah ide menjadi proyek nyata, terutama yang berkaitan dengan keamanan digital, sistem smart city, pengalaman pengguna, dan aplikasi web yang praktis.
 
-* 🔭 Currently working on **CyberVault** and **Portfolio_Web**
-* 🌱 Currently learning **React JS, PHP, CodeIgniter 3, Laravel, MySQL, and Cybersecurity**
-* 🧠 Interested in **Smart City, Digital Security, UX, System Thinking, and Web Security**
-* 🛠️ Building projects as a way to learn frontend, backend, UI/UX, and security testing
-* 🎯 Goal: Build impactful technology products for real-world problems
-* 📫 Reach me at **[imhafidhidayat@gmail.com](mailto:imhafidhidayat@gmail.com)**
+* 🔭 Saat ini sedang mengerjakan **CyberVault** dan **Portfolio_Web**
+* 🌱 Sedang mempelajari **React JS, PHP, CodeIgniter 3, Laravel, MySQL, dan Cybersecurity**
+* 🧠 Tertarik pada **Smart City, Keamanan Digital, UX, System Thinking, dan Web Security**
+* 🛠️ Membangun proyek sebagai cara belajar frontend, backend, UI/UX, dan pengujian keamanan
+* 🎯 Tujuan: Membangun produk teknologi yang berdampak untuk masalah nyata
+* 📫 Hubungi saya di [**imhafidhidayat@gmail.com**](mailto:imhafidhidayat@gmail.com)
 
 ---
 
-## Recent Progress
+## Perkembangan Terbaru
 
-### What I Built Recently
+### Apa yang Baru Saya Bangun
 
-Recently, I successfully built and deployed my personal **Portfolio_Web** project.
+Baru-baru ini, saya berhasil membangun dan melakukan deployment proyek pribadi **Portfolio_Web**.
 
-This project is not only a portfolio website, but also a personal development sandbox where I can practice, experiment, and improve my technical skills outside of academic project limitations.
+Proyek ini bukan hanya website portofolio, tetapi juga sandbox pengembangan pribadi tempat saya bisa berlatih, bereksperimen, dan meningkatkan kemampuan teknis di luar batasan proyek akademik.
 
-### Portfolio_Web Progress
+### Progress Portfolio_Web
 
-* ✅ Built an interactive personal portfolio website
-* ✅ Deployed the website using **Vercel**
-* ✅ Created a responsive web layout that can be opened on desktop and mobile
-* ✅ Added interactive UI sections such as hero section, dashboard area, animation, and project preview
-* ✅ Started using the project as a sandbox for learning and experimentation
+* ✅ Membangun website portofolio pribadi yang interaktif
+* ✅ Melakukan deployment menggunakan **Vercel**
+* ✅ Membuat tampilan web responsif untuk desktop dan mobile
+* ✅ Menambahkan bagian UI interaktif seperti hero section, dashboard, animasi, dan preview proyek
+* ✅ Mulai menggunakan proyek ini sebagai sandbox pembelajaran dan eksperimen
 
-### Why Portfolio_Web Matters
+### Mengapa Portfolio_Web Penting
 
-Portfolio_Web is designed as a personal space to practice:
+Portfolio_Web dirancang sebagai ruang pribadi untuk berlatih:
 
-* Legal penetration testing on my own web application
-* Frontend development
-* Backend development
-* UI/UX exploration
-* Web deployment and hosting workflow
-* Project documentation and GitHub habit building
+* Pengujian penetrasi legal pada aplikasi web sendiri
+* Pengembangan frontend
+* Pengembangan backend
+* Eksplorasi UI/UX
+* Workflow deployment dan hosting web
+* Dokumentasi proyek dan kebiasaan menggunakan GitHub
 
-This project became an important milestone because it helped me move from only learning concepts into actually building and publishing something real.
+Proyek ini menjadi milestone penting karena membantu saya beralih dari hanya belajar konsep menjadi benar-benar membangun dan mempublikasikan sesuatu yang nyata.
 
 ---
 
 ## Tech Stack & Tools
 
-### Programming & Markup Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat\&logo=php)
-![Java](https://img.shields.io/badge/Java-black?style=flat\&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-black?style=flat\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat\&logo=mysql)
+### Bahasa Pemrograman & Markup
 
 ### Frontend Development
 
-![React](https://img.shields.io/badge/React-black?style=flat\&logo=react)
-![Vite](https://img.shields.io/badge/Vite-black?style=flat\&logo=vite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat\&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/Semantic%20HTML-black?style=flat\&logo=html5)
-![CSS3](https://img.shields.io/badge/Responsive%20CSS-black?style=flat\&logo=css3)
-
 ### Backend Development
 
-![PHP](https://img.shields.io/badge/PHP-black?style=flat\&logo=php)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-black?style=flat\&logo=codeigniter)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=flat\&logo=laravel)
-![REST API](https://img.shields.io/badge/REST%20API-black?style=flat)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-black?style=flat)
-
-### Database & Local Server
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat\&logo=mysql)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-black?style=flat\&logo=phpmyadmin)
-![XAMPP](https://img.shields.io/badge/XAMPP-black?style=flat\&logo=xampp)
-![Database Design](https://img.shields.io/badge/Database%20Design-black?style=flat)
-![CRUD](https://img.shields.io/badge/CRUD-black?style=flat)
+### Database & Server Lokal
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat\&logo=visualstudiocode)
-![NetBeans](https://img.shields.io/badge/NetBeans-black?style=flat\&logo=apache-netbeans-ide)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat\&logo=postman)
-![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat\&logo=powershell)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat\&logo=nodedotjs)
-![NPM](https://img.shields.io/badge/NPM-black?style=flat\&logo=npm)
-
 ### Design & Documentation Tools
-
-![Figma](https://img.shields.io/badge/Figma-black?style=flat\&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-black?style=flat\&logo=canva)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-black?style=flat\&logo=microsoftword)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-black?style=flat\&logo=microsoftpowerpoint)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-black?style=flat\&logo=microsoftexcel)
-![Flowgorithm](https://img.shields.io/badge/Flowgorithm-black?style=flat)
 
 ### Deployment & Hosting
 
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat\&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=flat\&logo=githubpages)
-![Web Deployment](https://img.shields.io/badge/Web%20Deployment-black?style=flat)
-
 ### Cybersecurity & Testing Tools
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=flat\&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=flat\&logo=wireshark)
-![SQLMap](https://img.shields.io/badge/SQLMap-black?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-black?style=flat)
-![Dirsearch](https://img.shields.io/badge/Dirsearch-black?style=flat)
-![Subfinder](https://img.shields.io/badge/Subfinder-black?style=flat)
-![Web Security](https://img.shields.io/badge/Web%20Security-black?style=flat)
-![Legal Testing](https://img.shields.io/badge/Legal%20Security%20Testing-black?style=flat)
-
-### Environment & Virtualization
-
-![Windows](https://img.shields.io/badge/Windows-black?style=flat\&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat\&logo=linux)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-black?style=flat\&logo=virtualbox)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat\&logo=docker)
+### Environment & Virtualisasi
 
 ---
 
-## Featured Projects
+## Proyek Unggulan
 
 ### CyberVault
 
-CyberVault is a web-based platform designed to improve digital security awareness through learning content, security assessment, cyber threat information, and incident reporting.
+CyberVault adalah platform berbasis web yang dirancang untuk meningkatkan kesadaran keamanan digital melalui konten pembelajaran, penilaian keamanan, informasi ancaman siber, dan pelaporan insiden.
 
-The project focuses on helping users understand digital risks, learn safer behavior, and respond better when facing cyber threats.
+Proyek ini berfokus membantu pengguna memahami risiko digital, belajar perilaku yang lebih aman, dan merespons ancaman siber dengan lebih baik.
 
 **Tech Stack:** React JS, PHP, CodeIgniter 3, MySQL
 
 Repository: [CyberVault-WebPro](https://github.com/Levii90/CyberVault-WebPro)
 
-### CyberVault Project Setup
+### Setup Proyek CyberVault
 
 ```bash
 npm install
@@ -169,59 +105,59 @@ npm run dev
 
 ### Portfolio_Web
 
-Portfolio_Web is my personal portfolio and development sandbox.
-It is built to showcase projects, document learning progress, and become a safe place to practice web development and legal security testing.
+Portfolio_Web adalah portofolio pribadi sekaligus sandbox pengembangan saya.
+Dibangun untuk menampilkan proyek, mendokumentasikan progres belajar, dan menjadi tempat aman untuk berlatih pengembangan web serta pengujian keamanan secara legal.
 
-**Main Focus:**
+**Fokus Utama:**
 
 * Personal branding
-* Project showcase
-* Frontend practice
-* Backend practice
-* UI/UX experiment
-* Legal web security testing
+* Showcase proyek
+* Latihan frontend
+* Latihan backend
+* Eksperimen UI/UX
+* Pengujian keamanan web secara legal
 
 **Deployment:** Vercel
 **Repository:** [Portfolio_Web](https://github.com/Levii90/Portofolio_Web)
 
 ---
 
-## Learning Roadmap
+## Roadmap Pembelajaran
 
-Currently, I am improving my skills in several areas:
+Saat ini saya sedang meningkatkan kemampuan di beberapa bidang:
 
-* React JS for frontend development
-* PHP and CodeIgniter 3 for backend development
-* Laravel for full stack web development
-* MySQL for database design and implementation
-* Java for object-oriented programming
-* Python for scripting and basic automation
-* Cybersecurity fundamentals for web security awareness
-* UI/UX design for better digital product experience
-* Git and GitHub for version control and project documentation
+* React JS untuk pengembangan frontend
+* PHP dan CodeIgniter 3 untuk backend
+* Laravel untuk full stack development
+* MySQL untuk desain dan implementasi database
+* Java untuk pemrograman berorientasi objek
+* Python untuk scripting dan automasi dasar
+* Fundamental cybersecurity untuk kesadaran keamanan web
+* Desain UI/UX untuk pengalaman produk digital yang lebih baik
+* Git dan GitHub untuk version control dan dokumentasi proyek
 
 ---
 
-## Current Focus
+## Fokus Saat Ini
 
 ```txt
-Build real projects.
-Deploy what I build.
-Break my own app legally.
-Fix what I break.
-Document the process.
-Repeat.
+Bangun proyek nyata.
+Deploy apa yang saya buat.
+Uji aplikasi sendiri secara legal.
+Perbaiki apa yang rusak.
+Dokumentasikan prosesnya.
+Ulangi.
 ```
 
 ---
 
-## GitHub Stats
+## Statistik GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levii90&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hafid's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levii90&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Statistik GitHub Hafid" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii90&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levii90&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Bahasa Teratas" />
 
 </div>
 
@@ -237,24 +173,20 @@ Repeat.
 
 ---
 
-## Contribution
+## Kontribusi
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Levii90/Levii90/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Levii90/Levii90/output/github-contribution-grid-snake-dark.svg">
+  <img alt="animasi kontribusi github" src="https://raw.githubusercontent.com/Levii90/Levii90/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-## Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat\&logo=github)](https://github.com/Levii90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat\&logo=linkedin)](https://linkedin.com/in/username-kamu)
-[![Email](https://img.shields.io/badge/Email-black?style=flat\&logo=gmail)](mailto:imhafidhidayat@gmail.com)
+## Hubungi Saya
 
 ---
 
